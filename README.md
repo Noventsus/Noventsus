@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Noven
+- 👀 I’m interested in game development and bots.
+- 🌱 I’m currently learning basic code.
+- 📫 How to reach me: Discord (Noven#2022)
